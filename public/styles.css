@@ -36,14 +36,14 @@
 
 img {
 	max-width: 685px;
-	max-height: 300px;
+	max-height: auto;
 }
 
 .flexItem {
 	border: 2px solid black;
 	padding: 5px;
 	width: 685px;
-	height: 300px;
+	height: auto;
 	margin: 50px;
 	color: black;
 	text-align: center;
