@@ -33,6 +33,12 @@
 .wrap {
 	flex-wrap: wrap;
 }
+
+img {
+	max-width: 685px;
+	max-height: 300px;
+}
+
 .flexItem {
 	border: 2px solid black;
 	padding: 5px;
@@ -62,9 +68,9 @@
 .infoBox {
 	border: 2px solid black;
 	padding: 5px;
-	width: 980px;
+	width: 920px;
 	height: auto;
-	margin: 10px;
+	margin: auto;
 	box-shadow: 0px 3px 10px #333;
 	transition: all 200ms ease-in-out;
 	max-width: 100%;
