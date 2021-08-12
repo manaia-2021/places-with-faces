@@ -1,3 +1,14 @@
+/* .menu {
+	border: 2px solid black;
+	width: 100%;
+	display: flex;
+	max-width: 100%;
+}
+.center {
+  text-align: center;
+  border: 3px solid green;
+} */
+
 .container {
 	border: 2px solid black;
 	width: 1600px;
@@ -6,11 +17,11 @@
 	list-style: none;
 	display: flex;
 	max-width: 100%;
-  align-items: center;
+	align-items: center;
 }
-p {
+/* p {
 	text-align: center;
-}
+} */
 
 .flex-container {
 	padding: 0;
@@ -23,19 +34,16 @@ p {
 	flex-wrap: wrap;
 }
 .flex-item {
-  border: 2px solid black;
+	border: 2px solid black;
 	padding: 5px;
 	width: 685px;
 	height: 300px;
 	margin: 50px;
-
-	/* line-height: 100px; will cahnge position of text*/
 	color: black;
-	/* font-weight: bold; */
-	/* font-size: 2em; */
 	text-align: center;
-  box-shadow: 0px 3px 10px #333;
-  transition: all 200ms ease-in-out;
+	box-shadow: 0px 3px 10px #333;
+	transition: all 200ms ease-in-out;
 }
 .flex-item:hover {
 	box-shadow: 15px 15px 30px #555;
+}
