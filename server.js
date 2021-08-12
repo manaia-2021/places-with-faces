@@ -24,4 +24,14 @@ server.get('/', (req, res) => {
   })
 })
 
+server.get('/places/:id', (req, res) => {
+  getPlaces((err, placeData) => {
+    if (err) {
+      console.log(err)
+    }
+    const viewData = placeData.places.find(place => place.id === parseInt(req.params.id))
+    res.render('details', viewData)
+  })
+})
+
 module.exports = server
