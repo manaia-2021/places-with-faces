@@ -1,7 +1,9 @@
-<div class="container">
-  {{#each puppies}}
-  <div class="puppy-list">
-    <a href="/puppies/{{id}}"><img class="img-circle" src="{{image}}" alt="{{name}}"></a>
+<div class='container warp'>
+    <ul class='flexContainer wrap'>
+      {{#each places}}
+      <li class='flexItem'>
+        <a href ='/images/{{id}}'><img src='{{image}} ' alt='{{name}}'></a>
+      </li>
+      {{/each}}
+    </ul>
   </div>
-  {{/each}}
-</div>
