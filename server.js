@@ -17,11 +17,11 @@ server.set('view engine', 'hbs')
 server.get('/', (req, res) => {
   getPlaces((err, places) => {
     if (err) {
-      console.log (err)
+      console.log(err)
     }
-    console.log(places)
-  });
-  res.render('home')
+    const viewData = places
+    res.render('home', viewData)
+  })
 })
 
 module.exports = server
