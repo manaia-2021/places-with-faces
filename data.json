@@ -1,4 +1,4 @@
-Bobby
+
 {
   "places": [
     {
@@ -7,7 +7,7 @@ Bobby
       "image": "/images/Milford.jpg",
       "location": " Fiordland National Park,South Island",
       "description": " Milford Sound sits within Fiordland National Park in the southwest of New Zealand’s South Island. The park is part of Te Wahipounamu, a UNESCO World Heritage site. Milford Sound is the jewel of Fiordland National Park – a hidden secret waiting to be discovered. Despite its name, Milford Sound is actually a fiord, not a sound. It is also the only fiord in New Zealand that is accessible by road. However, its remote location, bounded by steep cliffs and dense rainforest, means its special features remain unspoilt. Rain or shine, Milford Sound continues to captivate even the most experienced traveller with its beautiful surroundings, ink-dark waters, gushing waterfalls and captivating views. There are a number of options for getting to Milford Sound, but only one road providing access. Not so surprisingly, it is called the Milford Road and is also known as State Highway 94. Milford Sound can also be visited by air. ",
-      "url": " https://www.newzealand.com/nz/milford-sound/ "
+      "url": "https://www.newzealand.com/nz/milford-sound/"
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@ Bobby
       "image": "/images/mt-taranaki.jpg",
       "location": "Egmont National Park,North Island",
       "description": " Mount Taranaki, also called Mount Egmont, mountain, west-central North Island, New Zealand, on the Taranaki Peninsula. The symmetrical volcanic cone rises from sea level to 8,260 ft (2,518 m) and has a subsidiary cone, 6,438-ft Fanthams Peak, 1 mi (1.5 km) south of the main crater. Both have been dormant since the early 17th century. Streams issuing from the snowfields at the summit have carved deep gorges down the slopes. Dense forests clothe the mountain, giving way to the fertile plain at its base. Mt. Taranaki is the youngest and most southerly of a group of volcanoes, including Pouakai and Kaitake, that are within Egmont National Park. The peak was sighted (1770) by the British navigator Capt. James Cook and was first climbed in 1839.  ",
-      "url" : "https://www.newzealand.com/nz/feature/national-parks-egmont/  "
+      "url" : "https://www.newzealand.com/nz/feature/national-parks-egmont/"
     },
     {
       "id": 3,
@@ -23,15 +23,15 @@ Bobby
       "image": "/images/Cathedral.jpg",
       "location": "  Coromandel Peninsula,North Island ",
       "description": " Cathedral Cove is a famous cave/rock formation on the Coromandel Peninsula. It is located right on the edge of an ocean-side bay and has been carved by the rough sea. Why is it called Cathedral Cove? Because it is quite soft, it soon erodes, forming steep headlands between small sandy beaches. Cathedral Cove is named after the large triangular cave in the centre. Cathedral Cove, New Zealand is located only a couple of kilometers from the town Hahei on New Zealand’s North Island. It is 175 km from Auckland and takes about 2.5 hours to reach by car. From Cathedral Cove, you can reach the famous Hot Water beach in 10 minutes by car. ",
-      "url" :  " https://www.newzealand.com/nz/cathedral-cove/  "
+      "url" :   "https://www.newzealand.com/nz/cathedral-cove/"
     },
     {
       "id": 4,
-      "name": " Waitomo Glowworm Caves",
+      "name":  " Waitomo Glowworm Caves",
       "image": "/images/glowworms.jpg",
       "location": " Waitomo, North island ",
       "description": " The Waitomo Glowworm Caves attraction is a cave at Waitomo on the North Island of New Zealand. It is known for its population of Arachnocampa luminosa, a glowworm species found exclusively in New Zealand. This cave is part of the waitomo streamway system that includes the Ruakuri Cave, Lucky Strike, and Tumutumu Cave. There are around 300 known limestone caves underground in the Waitomo region, but the Waitomo Glowworm Caves are perhaps the most special of all. ... Guests are asked to refrain from touching the cave walls. Stalactites and stalagmites take centuries to form and touching them can result in discolouration and breakage. The caves were first explored in 1887 by local Maori Chief Tane Tinorau. ",
-      "url" :  " https://www.newzealand.com/nz/waitomo-caves/  "
+      "url" :  "https://www.newzealand.com/nz/waitomo-caves/"
     },
     {
       
@@ -40,7 +40,7 @@ Bobby
       "image": "/images/tongariro.jpg",
       "location": " Tongariro National Park,North Island ",
       "description": " The Tongariro Alpine Crossing is heralded as the best one-day trek in New Zealand and is regarded as among the top ten single-day treks in the world. Many who complete the 19.4 km (12 mile) journey will tell you the climbs can be steep and the weather unpredictable, though worth it in every aspect. The Tongariro Alpine Crossing is located in the Tongariro National Park - New Zealand's oldest national park and a dual UNESCO World Heritage Site. Tongariro National Park is rich in both cultural identity and dramatic, awe-inspiring natural scenery. Unique landforms, including the volcanic peaks of Ngauruhoe, Tongariro and Ruapehu ensure the Tongariro Alpine Crossing is considered a world-renowned trek.",
-      "url" :  " https://www.newzealand.com/nz/feature/tongariro-alpine-crossing/ "
+      "url" :  "https://www.newzealand.com/nz/feature/tongariro-alpine-crossing/"
     },
     {
       
@@ -49,7 +49,7 @@ Bobby
       "image": "/images/Hobbiton.jpg",
       "location": "Matamata,Waikato region, North island ",
       "description": " The Shire - otherwise known as Hobbiton - is a village of 44 hobbit holes dug into the hillside, surrounded by hobbit gardens and orchards, and the fertile pastures of a sheep and cattle farm owned and operated by the Alexander family. The newest addition to Hobbiton is the Green Dragon Inn, opened in December 2012.The 12-acre movie set in gentle rolling hills and on a quiet country road near the farming town of Matamata, is a two-hour drive from Auckland and within easy access of other tourist destinations including Rotorua, Waitomo, Tauranga and the city of Hamilton. Fall in love with the Alexander family sheep farm, just as acclaimed director Sir Peter Jackson did, as you journey through the unequivocal beauty of the land, with the mighty Kaimai Ranges towering in the distance. ",
-      "url" :  " https://www.newzealand.com/nz/plan/business/hobbiton-movie-set-tours/ "
+      "url" :  "https://www.newzealand.com/nz/plan/business/hobbiton-movie-set-tours/"
     }
     
   ]
