@@ -1,5 +1,5 @@
 {
-  "name": "pupparazzi",
+  "name": "places-with-faces",
   "version": "2.0.0",
   "description": "Challenge to learn server side rendering and callbacks",
   "main": "index.js",
@@ -11,13 +11,13 @@
     "lint": "eslint .",
     "test": "jest --watchAll"
   },
-  "homepage": "https://github.com/dev-academy-challenges/pupparazzi#readme",
+  "homepage": "https://places-and-faces-manaia-21.herokuapp.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dev-academy-challenges/pupparazzi.git"
+    "url": "git+https://github.com/dev-academy-challenges/places-with-faces.git"
   },
   "bugs": {
-    "url": "https://github.com/dev-academy-challenges/pupparazzi/issues"
+    "url": "https://github.com/dev-academy-challenges/places-with-faces/issues"
   },
   "eslintConfig": {
     "extends": "eda"
