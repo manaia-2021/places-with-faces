@@ -9,6 +9,7 @@ p {
 	text-align: center;
 }
 
+/*
 .box {
 	border: 2px dashed red;
 	width: 50%;
@@ -16,9 +17,11 @@ p {
 	margin: 5%;
 	max-width: 100%;
 }
+*/
 
 .hoverBox {
-  width: 50%;
+  width: 412px;
+  height: auto;
   border: 2px black solid;
   display: flex;
   text-align: center;
