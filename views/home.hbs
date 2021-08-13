@@ -1,9 +1,13 @@
 <div class='container wrap'>
     <ul class='flexContainer wrap'>
       {{#each places}}
-      <li class='flexItem'>
+      <div class='flexItem'>
         <a href ='/places/{{id}}'><img src='{{image}} ' alt='{{name}}'></a>
-      </li>
+        <div class="overlay">
+          <p>{{name}}</p>
+          <small>{{location}}</small>
+        </div>
+      </div>
       {{/each}}
     </ul>
   </div>

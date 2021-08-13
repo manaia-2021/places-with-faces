@@ -8,6 +8,17 @@
   text-align: center;
   border: 3px solid green;
 } */
+.overlay {
+	opacity: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+  text-align: center;
+	  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+	font-size: 1.5em;
+}
 
 body {
 	background-color: #c9eded;
@@ -44,6 +55,7 @@ img {
 }
 
 .flexItem {
+	position: relative;
 	border: 2px solid black;
 	padding: 5px;
 	width: 685px;
@@ -82,3 +94,12 @@ img {
 	max-width: 100%;
 	display: flex;
 }
+
+.flexItem:hover .overlay {
+	opacity: 1;
+}
+
+.flexItem:hover img {
+	opacity: 0.6;
+}
+
