@@ -14,7 +14,7 @@ body {
 }
 .container {
 	border: 2px solid black;
-	width: 1600px;
+	width: 90%;
 	height: auto;
 	margin: auto;
 	list-style: none;
@@ -27,11 +27,13 @@ body {
 } */
 
 .flexContainer {
-	padding: 0;
-	margin: 30px;
+	padding: 20px;
+	/* margin: 3%px; */
 	list-style: none;
 	border: 1px solid silver;
 	display: flex;
+	align-content: center;
+	max-width: 100%;
 }
 .wrap {
 	flex-wrap: wrap;
@@ -45,7 +47,7 @@ img {
 
 .flexItem {
 	border: 2px solid black;
-	padding: 5px;
+	padding: 0%;
 	width: 685px;
 	height: auto;
 	margin: 30px;
