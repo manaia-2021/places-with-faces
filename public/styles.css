@@ -20,6 +20,9 @@
 	font-size: 1.5em;
 }
 
+body {
+	background-color: #c9eded;
+}
 .container {
 	border: 2px solid black;
 	width: 1600px;
@@ -36,7 +39,7 @@
 
 .flexContainer {
 	padding: 0;
-	margin: 0;
+	margin: 30px;
 	list-style: none;
 	border: 1px solid silver;
 	display: flex;
@@ -48,6 +51,7 @@
 img {
 	max-width: 685px;
 	max-height: auto;
+	display: flex;
 }
 
 .flexItem {
@@ -61,6 +65,7 @@ img {
 	text-align: center;
 	box-shadow: 0px 3px 10px #333;
 	transition: all 200ms ease-in-out;
+	background-color: whitesmoke;
 }
 .flexItem:hover {
 	box-shadow: 15px 15px 30px #555;
@@ -75,6 +80,7 @@ img {
 	max-width: 100%;
 	align-items: center;
 	text-align: center;
+	background-color: whitesmoke;
 }
 
 .infoBox {
@@ -84,7 +90,7 @@ img {
 	height: auto;
 	margin: auto;
 	margin-top: 38px;
-	box-shadow: 0px 3px 10px #333;;
+	box-shadow: 0px 3px 10px #333;
 	max-width: 100%;
 	display: flex;
 }
@@ -96,3 +102,4 @@ img {
 .flexItem:hover img {
 	opacity: 0.6;
 }
+
