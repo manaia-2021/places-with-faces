@@ -114,6 +114,7 @@ img {
 }
 
 .infoBox-face:hover {
+	display: flex;
 	opacity: 1;
 }
 .flexItem:hover .overlay {
