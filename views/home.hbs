@@ -8,11 +8,14 @@
       {{#each places}}
       <div class='flexItem'>
         <a href ='/places/{{id}}'><img src='{{image}} ' alt='{{name}}'></a>
-        <div class="overlay">
+        <div class='overlay'>
           <p>{{name}}</p>
           <small>{{location}}</small>
         </div>
       </div>
       {{/each}}
     </ul>
+  </div>
+  <div>
+    <a href='/places/add'> <button type='button' target='blank'> Add your own favourite places!</button></a>
   </div>

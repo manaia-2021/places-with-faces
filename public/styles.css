@@ -21,6 +21,7 @@ header {
 body {
 	background-color: #c9eded;
 	font-family: 'Montserrat', sans-serif;
+	justify-content: center;
 }
 .container {
 	/* border: 2px solid black; */
