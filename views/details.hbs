@@ -1,13 +1,17 @@
+ <body>
     <div class="infoContainer">
       <img class ='infoBox' src='{{image}}' alt="{{name}}">
       <h2>{{name}}</h2>
       <div>
-        <h3>location:</h3> {{location}}
+        <h3>Location:</h3> {{location}}
       </div>
       <div>
         <h3>Description:</h3> {{description}}
       </div>
       <div> 
-        <h3>Go to their website!</h3> {{url}}
-    </div>
+        <h3>Go to their website!</h3> <a href={{url}} target="_blank">{{url}}</a>
+      </div>
+      <div>
+        <h2><a href= "https://places-and-faces-manaia-21.herokuapp.com/">Back to homepage</a></h2>
+      </div>
   </body>
